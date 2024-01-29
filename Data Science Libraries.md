@@ -1,0 +1,11 @@
+### Data Science Libraries
+1. Pandas (Python)
+2. NumPy (Python)
+3. SciPy (Python)
+4. scikit-learn (Python)
+5. TensorFlow (Python)
+6. Keras (Python)
+7. PyTorch (Python)
+8. Matplotlib (Python)
+9. Seaborn (Python)
+10. ggplot2 (R)
